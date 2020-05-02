@@ -1,0 +1,46 @@
+
+.boxed {
+  border: 3px solid black ;
+  border-radius: 10px;
+  width: 11cm;
+  height: 130px;
+} 
+.autoboxed {
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 15cm;
+    height: auto;
+}
+.contact {
+    position: absolute;
+    top: 24%;
+    left: 75%;
+    width: 330px;
+    height: 520px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 8px 
+}
+button {
+  background: #2c2f33;
+  border: 2px solid white;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -khtml-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font: 18px Verdana;
+  letter-spacing: 1px;
+  display: block;
+  letter-spacing: 1px;
+  margin: auto;
+  padding: 7px 25px;
+  text-shadow: 0 1px 1px #000000;
+  
+}
+a {
+  color: #b9a3e3  
+}
+
+
