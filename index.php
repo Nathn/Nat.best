@@ -29,9 +29,8 @@
     Voici ma page perso, des fois j'y posterai des trucs<br><br>
     <a href="form.php" style="color:#b9a3e3">La page privée (protégée par mot de passe)</a><br><br>
     <div align="center">
-    <div class="boxed">
-    <br>Futur forum en construction :<br> <p><progress id="file" max="100" value="92"></progress><br>
-    <a href="/forum/inscription_beta.php"><font size="3">Participer à la bêta</p></font></a>
+    <div class="impboxed">
+    <br><br><a href="chat/index.php">Application de tchat global</a>
     </div><br>
     <div class="boxed">
     <br><br><a href="tests/testage.php">Test : Quel âge avez-vous ?</a>
@@ -43,7 +42,7 @@
 <font size="4"><div align="center"><b>Pour me soutenir, vous pouvez vous abonner à ma <a href="https://www.youtube.com/NathanT" style="color:#b9a3e3">chaîne Youtube</a><br> (je vise les 1000 abonnés), ou regarder une publicité sur ma <a href="https://utip.io/nathant">page Utip</a></b>
 
 <br><br><br><br>
-<p>Le code source du site est disponible librement sur <a href="https://github.com/NathanTrc/Nat.best">Github</a> 💜</p>
+<p>Le code source du site est disponible librement sur <a href="https://github.com/NthTr/Nat.best">Github</a> 💜</p>
 
 </div></font>
 
