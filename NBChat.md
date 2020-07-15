@@ -1,1 +1,1 @@
-https://github.com/NthTr/NBChat
+https://github.com/Nathn/NBChat
