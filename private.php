@@ -12,7 +12,7 @@
 
     <div align="center">
         <?php
-    if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] ==  "lu23qd33&*")
+    if (isset($_POST['mot_de_passe']) AND $_POST['mot_de_passe'] ==  "PASSWORD")
     {
     
     ?>
