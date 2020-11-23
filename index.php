@@ -30,7 +30,7 @@
     <a href="form.php" style="color:#b9a3e3">La page privée (protégée par mot de passe)</a><br><br>
     <div align="center">
     <div class="impboxed">
-    <br><br><a href="chat/index.php">Application de tchat global</a>
+    <br><br><a href="/chat">Application de tchat global</a>
     </div><br>
     <div class="boxed">
     <br><br><a href="tests/testage.php">Test : Quel âge avez-vous ?</a>
